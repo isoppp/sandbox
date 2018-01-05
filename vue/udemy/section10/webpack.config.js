@@ -28,10 +28,6 @@ module.exports = {
         options: {
           name: '[name].[ext]?[hash]'
         }
-      },
-      {
-        test: /\.html$/,
-        loader: 'file-loader?name=[path][name].[ext]'
       }
     ]
   },
