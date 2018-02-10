@@ -1,0 +1,17 @@
+{
+  "name": "console-and-status-error",
+  "engines": {
+    "node": ">=8.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "python -m SimpleHTTPServer 3000 index.html",
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^1.0.0"
+  }
+}
