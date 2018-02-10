@@ -3,14 +3,14 @@
   "engines": {
     "node": ">=8.0"
   },
-  "description": "",
+  "description": "puppeteer get console error and status code",
   "main": "index.js",
   "scripts": {
     "serve": "python -m SimpleHTTPServer 3000 index.html",
     "test": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "isoppp",
+  "license": "MIT",
   "devDependencies": {
     "puppeteer": "^1.0.0"
   }
