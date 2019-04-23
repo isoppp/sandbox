@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "puppeteer/console-and-status-error/package.json"
+      ]
+    }
+  }
+}
